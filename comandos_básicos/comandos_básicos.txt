@@ -1,0 +1,7 @@
+git init -> Inicia um novo repositório local na pasta do seu projeto
+git remote add origin seu link do repositório -> Associa seu repositório local ao repositório remoto, com o apelido de "origin"
+git pull origin master -> Atualiza seu repositório local em relação ao repositório remoto
+git status -> Verifica arquivos
+git add . -> Adiciona todos arquivos ao stage
+git commit -m "Projeto criado" -> Salva uma nova versão do projeto
+git push -u origin master -> Envia o repositório local para o repositório remoto
