@@ -5,3 +5,4 @@ git status -> Verifica arquivos
 git add . -> Adiciona todos arquivos ao stage
 git commit -m "Projeto criado" -> Salva uma nova versão do projeto
 git push -u origin master -> Envia o repositório local para o repositório remoto
+rm -fr .git -> remove repositório local
